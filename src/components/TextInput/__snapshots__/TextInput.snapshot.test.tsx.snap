@@ -1,0 +1,156 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TextInput snapshot unit test bacic test 1`] = `
+<section>
+  <input
+    className="ant-input css-dev-only-do-not-override-ixblex h-[1.15rem] text-[0.57rem]"
+    disabled={false}
+    onBlur={[Function]}
+    onChange={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    style={
+      {
+        "backgroundColor": "#ffffff",
+        "borderColor": "#D5D4DC",
+        "fontSize": "0.386rem",
+        "width": "7.9rem",
+      }
+    }
+    type="text"
+    value=""
+  />
+  <div
+    className="flex items-center"
+  >
+    <span
+      className="text-[0.32rem] ml-[0.1rem]"
+      style={
+        {
+          "color": "#D5D4DC",
+        }
+      }
+    />
+  </div>
+</section>
+`;
+
+exports[`TextInput snapshot unit test status test 1`] = `
+<section>
+  <input
+    className="ant-input css-dev-only-do-not-override-ixblex h-[1.15rem] text-[0.57rem]"
+    disabled={false}
+    onBlur={[Function]}
+    onChange={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    style={
+      {
+        "backgroundColor": "#F1F8F2",
+        "borderColor": "#2BAC47",
+        "fontSize": "0.386rem",
+        "width": "7.9rem",
+      }
+    }
+    type="text"
+    value=""
+  />
+  <div
+    className="flex items-center"
+  >
+    <span
+      data-testid="CheckCircleFilled"
+    />
+    <span
+      className="text-[0.32rem] ml-[0.1rem]"
+      style={
+        {
+          "color": "#2BAC47",
+        }
+      }
+    >
+      helptext
+    </span>
+  </div>
+</section>
+`;
+
+exports[`TextInput snapshot unit test status test 2`] = `
+<section>
+  <input
+    className="ant-input css-dev-only-do-not-override-ixblex h-[1.15rem] text-[0.57rem]"
+    disabled={false}
+    onBlur={[Function]}
+    onChange={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    style={
+      {
+        "backgroundColor": "#FBEFEF",
+        "borderColor": "#C83532",
+        "fontSize": "0.386rem",
+        "width": "7.9rem",
+      }
+    }
+    type="text"
+    value=""
+  />
+  <div
+    className="flex items-center"
+  >
+    <span
+      data-testid="ExclamationCircleFilled"
+    />
+    <span
+      className="text-[0.32rem] ml-[0.1rem]"
+      style={
+        {
+          "color": "#C83532",
+        }
+      }
+    >
+      helptext
+    </span>
+  </div>
+</section>
+`;
+
+exports[`TextInput snapshot unit test status test 3`] = `
+<section>
+  <input
+    className="ant-input css-dev-only-do-not-override-ixblex h-[1.15rem] text-[0.57rem]"
+    disabled={false}
+    onBlur={[Function]}
+    onChange={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    style={
+      {
+        "backgroundColor": "#FDF3EC",
+        "borderColor": "#EF8943",
+        "fontSize": "0.386rem",
+        "width": "7.9rem",
+      }
+    }
+    type="text"
+    value=""
+  />
+  <div
+    className="flex items-center"
+  >
+    <span
+      data-testid="ExclamationCircleFilled"
+    />
+    <span
+      className="text-[0.32rem] ml-[0.1rem]"
+      style={
+        {
+          "color": "#EF8943",
+        }
+      }
+    >
+      helptext
+    </span>
+  </div>
+</section>
+`;

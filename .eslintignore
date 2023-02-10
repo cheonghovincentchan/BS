@@ -1,0 +1,28 @@
+node_modules/*
+
+# build output
+build/*
+dist/*
+
+# config files
+craco.config.js
+tailwind.config.js
+vite.config.js
+postcss.config.js
+commitlint.config.js
+# webpack.config.ts
+jest.config.ts
+cypress.config.ts
+
+# 忽略 proto 文件和生成产物。
+/src/proto/*
+/src/proto*
+/src/types/proto.d.ts
+/main.js
+/preload.js
+
+script/update-desktop-version.js
+screenShareFloatDialog
+
+**/*.css
+cucumber.js
